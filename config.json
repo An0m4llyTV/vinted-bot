@@ -1,0 +1,5 @@
+{
+    "token": "process.env.TOKEN",
+    "adminIDs": ["304190732271484928"],
+    "guildID": "960229940362608690"
+}
